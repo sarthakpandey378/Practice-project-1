@@ -1,0 +1,133 @@
+.beauty{
+    width:100%;
+    height:49vh;
+    background-color: white;
+    /* border:2px solid black; */
+    margin: 2px 0px;
+
+}
+.beautyElements{
+    width:100%;
+    height:45vh;
+    
+}
+.beautyElements .box{
+    width: 185px;
+    height: 205px;
+    box-sizing: border-box;
+}
+.stationary{
+    width:100px;
+    height: 114px;
+    margin:0px 0px;
+    margin:10px 41px;
+}
+.batmantoys{
+    width:100px;
+    height: 113px;
+    margin:20px 41px;
+}
+.remote{
+    width: 138px;
+    height: 125px;
+    margin: 14px 20px;
+}
+.softtoys{
+    width:100px;
+    height: 113px;
+    margin:20px 41px;
+}
+.dryfruits{
+    width:122px;
+    height: 113px;   
+    margin:20px 30px;
+}
+.cord{
+    width:100px;
+    height: 113px;
+    margin:20px 41px;
+
+}
+
+.cereals{
+    width:100px;
+    height: 113px;
+    margin:20px 41px;
+}
+
+.health{
+    width:31vw;
+    height:85vh;
+    background-color: white;
+    margin:2px -21px;
+}
+.healthElement{
+    width: 28vw;
+    height: 80vh;
+    margin: 0px 20px
+     
+}
+
+
+.bottle{
+    width: 161px;
+    height: 152px;
+    margin: 26px 9px;
+}
+
+.supplement{
+    width: 161px;
+    height: 152px;
+    margin: 26px 9px;
+}
+
+.sunscreen{
+    width: 161px;
+    height: 152px;
+    margin: 26px 9px;
+}
+.mouthwash{
+    width: 161px;
+    height: 152px;
+    margin: 26px 9px;
+}
+.topPicks{
+    width: 31vw;
+    height: 85vh;
+    background-color: white;
+    margin: -678px 497px;
+}
+.topPickElements{
+    width:40vw;
+    height:80vh;
+    margin:0 35px;
+}
+
+.shoes{
+    width: 161px;
+    height: 152px;
+    margin:26px 9px;
+
+}
+.bracelet{
+    width: 161px;
+    height: 152px;
+    margin:26px 9px;
+}
+.sandels{
+    width: 161px;
+    height: 152px;
+    margin:26px 9px;
+}
+.tshirt{
+    width: 161px;
+    height: 152px;
+    margin:26px 9px;
+}
+
+.ads{
+    width: 500px;
+    height: 674px;
+    margin: -340px 243px;
+}
+   

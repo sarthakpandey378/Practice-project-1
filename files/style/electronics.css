@@ -1,0 +1,97 @@
+.electronics{
+    width:100%;
+    height:49vh;
+    background-color: white;
+    /* border:2px solid black; */
+    margin: 2px 36px;
+}
+ 
+
+.electronics.element{
+width:75vw;
+
+height:20vh;
+    margin:5px 10px;
+
+}
+.box{
+    width:185px;
+    height:230px;
+    border:2px solid rgb(225, 222, 222);
+    display: inline-block;
+    margin: 8px 10px;
+    margin-bottom: 50px;
+}
+
+.box span{
+    display:flex;
+    justify-content: center;align-items: center;
+
+}
+
+
+.monitor{
+    width: auto;
+    height:100px;
+    margin:0px 5px;
+    cursor: pointer;
+}
+.keyboard{
+    width: 180px;
+    height: 93px;
+    margin: 29px 3px;
+    cursor: pointer;
+}
+.printer{
+    width: auto;
+    height: 144px;
+    cursor: pointer;
+    margin: 14px 5px;
+
+}
+.shaver{
+    width: auto;
+    height:129px;
+    
+    cursor: pointer;
+    margin:21px 60px;
+
+}
+.projector{
+    width: auto;
+    height: 135px;
+    cursor: pointer;
+    margin: 20px 33px
+
+
+} 
+.benq {
+    width: auto;
+    height: 136px;
+    cursor: pointer;
+    margin: 18px 12px;
+}
+
+.sandisk{
+    width: auto;
+    height:172px;
+    cursor: pointer;
+
+    margin:0px 27px;
+
+}
+
+.security{
+    width: 105px;
+    height: 133px;
+    cursor: pointer;
+    margin: 10px 39px;
+}
+
+
+
+.price{
+    margin:6px 37px;
+    font-size: larger;
+    font-weight: 600;
+}
